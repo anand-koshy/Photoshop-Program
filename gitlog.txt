@@ -1,0 +1,371 @@
+commit afb938c6fca0900c8385346e788be7e482b6fa24
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 9 15:54:20 2017 -0400
+
+    Finished hw6
+
+commit c2098c9cc7202b0c92b2d42699d4c4c9d05d30e1
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Apr 8 22:02:28 2017 -0400
+
+    Finishing touches
+
+commit 9bbfef58dbe486e77bf08a1edb2f5c8d4b3c93ec
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Apr 8 21:45:56 2017 -0400
+
+    Added messages
+
+commit 5f61f6119ef97e8ebbd5d4b3cd33b7835f121f73
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Apr 8 16:28:38 2017 -0400
+
+    finished brightness
+
+commit d52d81002e567d023f30df95392ea9cb27e58cb2
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Fri Apr 7 15:58:38 2017 -0400
+
+    grayscale
+
+commit ad3e78b8d9e81aea038fc3f2161c4803983b4c85
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Fri Apr 7 11:51:28 2017 -0400
+
+    grayscale and swap
+
+commit 65596b963c4ccb08b1283080788bd874ae4fc294
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Fri Apr 7 11:27:34 2017 -0400
+
+    Finished cropping and inversion
+
+commit 9fc4b186bd10b37d3a3cbb14eece72681c7436f9
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Thu Apr 6 16:27:47 2017 -0400
+
+    Working on crop
+
+commit b855615753c7881bb38edade810f31ae55f200fe
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Thu Apr 6 14:32:02 2017 -0400
+
+    Finished write
+
+commit 75e13fe9f2d966b429d3a9dff5231169a86e746b
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Thu Apr 6 11:39:33 2017 -0400
+
+    Read header info
+
+commit d7c3a5ea6b5750db191a84231e41970533386f88
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Apr 5 19:42:50 2017 -0400
+
+    Reading file
+
+commit 5ddde92cfc2ac0e819e9e21009f2b1df52e4387a
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Apr 5 14:48:52 2017 -0400
+
+    Started upload function
+
+commit 59c57732de45ae699370a272fea654bb83a3fb15
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Apr 5 11:56:29 2017 -0400
+
+    Check File
+
+commit 621c7861d3ce400e620024821c33a41e9d7f9b86
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Apr 4 23:59:02 2017 -0400
+
+    Added new function
+
+commit 19586f52965dcd21bb09ac0e0a0cf0e366315c60
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Apr 4 23:50:52 2017 -0400
+
+    made git log
+
+commit 7f163e76dd7becf39a6b377d5e9ee90465c300b1
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Apr 4 23:49:52 2017 -0400
+
+    started hw6
+
+commit f8bb9287eaf13f8456124c07ca669732043cef08
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Apr 3 15:23:12 2017 -0400
+
+    Upload
+
+commit 1e5408c8db5b253adf4eacf5f54e01da31cd2508
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 22:10:08 2017 -0400
+
+    Finished I think
+
+commit 5424d04980d8c1f85b95a503350c60c72c5291ba
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 21:36:41 2017 -0400
+
+    Finished
+
+commit 0dfbddde9fb5c88e24a4d04e5780cdbfa62e0376
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 21:21:18 2017 -0400
+
+    Delete
+
+commit 0dc160b55f3691baf9cd03615629bd310438f2d4
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 19:25:43 2017 -0400
+
+    cleaned Menu
+
+commit a4f09aab84cdd3b4e17804de4de15b96fa179884
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 19:21:44 2017 -0400
+
+    Working on delete
+
+commit c92376e259b2acc30576e8768929ccd7f67dc62f
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 17:52:25 2017 -0400
+
+    delete function
+
+commit d76e825c91bcb8a975d7d1396a8ea425cb4bc5e7
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 16:29:09 2017 -0400
+
+    Delete function
+
+commit f6496527746aed3fd658ce9a23030058222f41e7
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 15:00:15 2017 -0400
+
+    Finished Case 5
+
+commit 3486c92f070af899ab53f4f7a2a37c2915df671e
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Apr 2 14:11:41 2017 -0400
+
+    Duplicate Course Function
+
+commit 70673df1cc33deac521a7e9217914aa11d3de57b
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Apr 1 18:49:57 2017 -0400
+
+    Finished Case 8
+
+commit d9e0df80a0fcf4bbfdf2b98e7e54ce1fbb8a099f
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Apr 1 17:10:42 2017 -0400
+
+    Finished Insert (sort of)
+
+commit b74a7700d6deb5f5371d5599528d16bbdcf18d4c
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Apr 1 14:26:24 2017 -0400
+
+    Insert transcript function
+
+commit fda013ec9fc42b5f2adb8403a6f34237dc395de4
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Fri Mar 31 18:54:04 2017 -0400
+
+    Working on Insert and changed transcript struct
+
+commit 1bcb7a28ff14101a3d5e31883b117746b2faacb4
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Fri Mar 31 16:19:44 2017 -0400
+
+    Finished Case 9
+
+commit 9dd0806088c05d56cc83b911b2811bc446eaf820
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Fri Mar 31 00:05:51 2017 -0400
+
+    Set up basic linked list
+
+commit 7710a05acb0778b697c73d5e7676ea996771f66c
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Thu Mar 30 15:07:33 2017 -0400
+
+    Working on linked lists still...
+
+commit 7116515fc186b3b80c873c7c9dade162bdb3e916
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Mar 29 19:28:16 2017 -0400
+
+    Linked List Insert Function
+
+commit a5332cc47e850f94e4e76e1c922647c665fe0f83
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Mar 29 12:11:58 2017 -0400
+
+    Working on Insert
+
+commit 64edb16573910f54ca50661d792c3c9568700c7d
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Mar 29 12:10:29 2017 -0400
+
+    Started Linked List
+
+commit 97b627b3f9ea911089d39b251df6b1c545dc8ff9
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Mar 28 21:31:10 2017 -0400
+
+    Validated semester and grade
+
+commit 8e0f5e262f3c5e4367be77d972cff8e8d1ffbc08
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Mar 28 18:51:41 2017 -0400
+
+    Made menu header and .c file
+
+commit dbf29eb4a1e69d0627d8ed02299d8122d9a81cd7
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 23:42:24 2017 -0400
+
+    Finished Case 4
+
+commit 78606b1d3b1affdbc60d4d6dbfb161c908292c09
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 16:40:14 2017 -0400
+
+    Case 3 Complete
+
+commit d80f04e55ceb1784fefb18af23354af2d54019ff
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 15:49:45 2017 -0400
+
+    Edits to Case 2
+
+commit 8021dc96940adf6e6fc5aee60b0dd4e969c8114f
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 15:19:49 2017 -0400
+
+    Finished Case 3
+
+commit 232a63bca8c21528122e809ef8a2c947f33f4766
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 14:46:44 2017 -0400
+
+    Almost Done Case 3
+
+commit 6e3372243f4965a7afbe315bf3385b4a1691ac9b
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 14:14:24 2017 -0400
+
+    Finished Case 2
+
+commit 8cd98ed591b43091b7a747a69ff3de36665583a7
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 11:49:07 2017 -0400
+
+    Working on Case 2
+
+commit 08bd75fb635642aafda5ed00109513ca7bdd6980
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 10:57:54 2017 -0400
+
+    Finished Case 1
+
+commit 3e083132c76393e65eb3bd4e6bc41879473d1da7
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 27 00:25:46 2017 -0400
+
+    What's wrong with me
+
+commit 18a1487db24e77ac7bf580aa6d970e6f94e16106
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Mar 26 21:46:07 2017 -0400
+
+    Uploading catalog.txt into array
+
+commit 9181979a6c749185c8c8033dd31b5321b0b77757
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Mar 26 19:26:09 2017 -0400
+
+    Taking File Input
+
+commit 9fab1351372d946a568125b59c267a52aa5ba87d
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Mar 26 18:21:55 2017 -0400
+
+    Made Makefile and Menu
+
+commit fc52a4982308208f933d1c9b83211b39d7cf0c8e
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sun Mar 26 10:49:54 2017 -0400
+
+    Created HW5
+
+commit 164993c2058e429e2ffbc3dd3a7e351a60f96ca8
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Mar 8 22:33:03 2017 -0500
+
+    Mostly Finished HW4
+
+commit 2eb8a3b2c05e589865667b9f758ef25ea80d684d
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Mar 8 19:24:09 2017 -0500
+
+    Fixing EOF Issues
+
+commit b286a42e1361af3948b41ce3621dfa93cb17781f
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Mar 8 16:22:34 2017 -0500
+
+    Fixed Matcher Function
+
+commit 874f815748ce7ffebbd839f399a2e7d0db66b67b
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Wed Mar 8 11:14:39 2017 -0500
+
+    Fixed Matcher Function
+
+commit 5dc715d9d00b53ad71bca1e152c22f5b29073c2c
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Mar 7 15:32:57 2017 -0500
+
+    restructured main and removed finder function
+
+commit 1a73b622588f75ad2bfe078f078678e2b077a8c0
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Mar 7 14:20:02 2017 -0500
+
+    Editing Matcher Function
+
+commit 953bf6a64e50809d8d60c00b816b9c6ce98180e5
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Tue Mar 7 01:07:34 2017 -0500
+
+    Updated Matcher Method: HW4
+
+commit e384b4313aebb5065d3f1682a211712d1f42ffb3
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Mon Mar 6 22:45:55 2017 -0500
+
+    Started matching function
+
+commit d1e9ab9a8405b4f8346b6b55fb226a28299c39f9
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Mar 4 16:13:27 2017 -0500
+
+    Created invalid text and file methods
+
+commit 290ffa4d5e641e59cc078408dba204be8cc243e6
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Sat Mar 4 12:57:47 2017 -0500
+
+    Homework 4 Created
+
+commit 7e8cb36fbc957b3e4b516d250c7d8650b38e91cc
+Author: Anand Koshy <akoshy1@jhu.edu>
+Date:   Fri Mar 3 11:31:47 2017 -0500
+
+    initialized new repository
